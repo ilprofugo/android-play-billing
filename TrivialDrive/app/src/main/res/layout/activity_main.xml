@@ -92,7 +92,8 @@
                 android:id="@+id/infinite_gas_button"
                 android:onClick="onInfiniteGasButtonClicked"
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content" />
+                android:layout_height="wrap_content"
+                android:src="@drawable/get_infinite_gas"/>
         </LinearLayout>
     </LinearLayout>
 </FrameLayout>
